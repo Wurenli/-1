@@ -1,0 +1,6 @@
+:43366
+wood frame (5):113350
+constr type 4:381
+constr type 2:4068
+constr type 3:9663
+constr type 1:28072

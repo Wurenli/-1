@@ -1,0 +1,94 @@
+:41114
+office:24616
+warehouse, furniture:99
+greenhouse:27
+workshop commercial:189
+recreation bldg:179
+1 family dwelling:46766
+swimming pool:5
+child care:1
+storage tanks:6
+prkng garage/public:207
+public assmbly other:196
+nursery(floral):9
+misc group residns.:113
+automobile sales:95
+ambulance service:3
+school:674
+day care home lt 7:9
+storage shed:113
+2 family dwelling:20987
+tower:10
+apartments:40798
+prson'l svc tutor:5
+library:33
+sign:5
+nursing home gt 6:13
+day care home gt 12:53
+sound studio:18
+mortuary:15
+tourist hotel/motel:1665
+auto repairs:336
+clinics-medic/dental:581
+phone xchnge/equip:36
+adult entertainment:9
+parking lot:76
+animal sale or care:59
+day care home 7 - 12:4
+nursing home non amb:10
+manufacturing:510
+muni carbarn:37
+temple:2
+orphanage:1
+barber/beauty salon:212
+lending institution:351
+radio & tv stations:35
+museum:146
+wholesale sales:27
+dry cleaners:63
+moving & storage:30
+massage parlor:78
+vacant lot:1813
+sewage plant:4
+warehouse,no frnitur:870
+church:467
+roofing materials:1
+accessory cottage:5
+day care, non-res:41
+car wash:11
+hospital:38
+dance hall:24
+nursing home lte 6:5
+health studios & gym:239
+stadium:4
+christmas tree lot:18
+residential hotel:1020
+building materials:10
+social care facility:43
+sfpd or sffd station:97
+club:124
+workshop residential:5
+meat/produce marts:5
+day care center:27
+paint store:5
+printing plant:69
+dairies/dairy equip.:1
+garment shops:40
+nite club:79
+muni driver restroom:3
+laundry/laundromat:99
+fence/retaining wall:9
+convalescent home:17
+antenna:110
+chemical processing:9
+r-3(dwg) nursing:4
+filling/service stn:218
+bath house:2
+retail sales:6910
+power plant:68
+artist live/work:448
+amusement center:7
+theater:219
+prkng garage/private:194
+jail:6
+food/beverage hndlng:4886

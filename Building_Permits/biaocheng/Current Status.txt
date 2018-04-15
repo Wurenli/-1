@@ -1,0 +1,14 @@
+suspend:193
+complete:97077
+issued:83559
+plancheck:16
+withdrawn:1754
+reinstated:563
+filed:12043
+cancelled:1536
+disapproved:2
+appeal:2
+expired:1370
+approved:733
+incomplete:2
+revoked:50

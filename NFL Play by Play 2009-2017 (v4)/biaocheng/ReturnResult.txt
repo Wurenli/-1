@@ -1,0 +1,4 @@
+Touchdown:1001
+NA:389450
+Fair Catch:5552
+Touchback:11685

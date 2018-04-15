@@ -1,0 +1,5 @@
+NA:397578
+Made:9850
+Missed:172
+Aborted:7
+Blocked:81

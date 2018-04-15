@@ -1,0 +1,15 @@
+Quarter End:4914
+Half End:40
+QB Kneel:3530
+Run:120831
+Spike:640
+Extra Point:10063
+Sack:10649
+Field Goal:8928
+Punt:22003
+Kickoff:23403
+Timeout:16206
+Pass:159353
+Two Minute Warning:3741
+End of Game:1973
+No Play:21414

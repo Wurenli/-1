@@ -1,0 +1,4 @@
+NA:398629
+Blocked:205
+Good:7582
+No Good:1272
